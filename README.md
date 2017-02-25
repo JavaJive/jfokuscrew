@@ -1,2 +1,2 @@
-# jfokuscrew2017
+# jfokuscrew
 Volonteerwork at Jfokus
